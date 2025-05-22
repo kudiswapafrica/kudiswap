@@ -46,7 +46,7 @@ const deployScript = async (): Promise<void> => {
     contract: "WalletFactory",
     constructorArgs: {
       owner: deployer.address,
-      account_class_hash: "kndfhf7twr7r7tyhuthur67t327yr982urrgffengygfuihg#$^*T^TRYRHNRBYGUTFGU"
+      account_class_hash: "0x05817ba96c20a4be89c6e9f91838d3bcfcb76d44aa6b4ca7bb87d64a83864e41"
     },
   });
 };
