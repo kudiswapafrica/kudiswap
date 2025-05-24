@@ -29,6 +29,7 @@
     "verify": "yarn workspace @ss-2/snfoundry verify"
   },
   "dependencies": {
+    "framer-motion": "^12.12.2",
     "postcss": "^8.4.38"
   },
   "devDependencies": {
