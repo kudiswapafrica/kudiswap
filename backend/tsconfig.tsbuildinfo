@@ -1,1 +1,1 @@
-{"root":["./src/server.ts"],"version":"5.8.3"}
+{"root":["./src/server.ts","./src/config/config.ts","./src/config/db.ts","./src/middlewares/authMiddleware.ts","./src/middlewares/errorHandler.ts","./src/middlewares/rateLimiter.ts","./src/middlewares/requestLogger.ts","./src/routes/authentication.ts","./src/routes/index.ts","./src/routes/register.ts","./src/routes/ussd.ts","./src/routes/ussdRouter.ts","./src/utils/generateToken.ts","./src/utils/methods.ts","./src/utils/phoneValidate.ts"],"version":"5.8.3"}
